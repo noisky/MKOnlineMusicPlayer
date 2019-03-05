@@ -1,8 +1,8 @@
 /**************************************************
- * MKOnlinePlayer v2.41
+ * MKOnlinePlayer v2.42
  * 播放器主功能模块
  * 编写：mengkun(https://mkblog.cn)
- * 时间：2018-3-13
+ * 时间：2019-3-5
  *************************************************/
 // 播放器功能配置
 var mkPlayer = {
@@ -16,7 +16,7 @@ var mkPlayer = {
     dotshine: true,    // 是否开启播放进度条的小点闪动效果[不支持IE](true/false) *开启后会有些卡
     mdotshine: false,   // 是否开启[移动端]播放进度条的小点闪动效果[不支持IE](true/false)
     volume: 0.6,        // 默认音量值(0~1之间)
-    version: "v2.41",    // 播放器当前版本号(仅供调试)
+    version: "v2.42",    // 播放器当前版本号(仅供调试)
     debug: false   // 是否开启调试模式(true/false)
 };
 
